@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://job-applier-backend.up.railway.app/api/:path*"
+      "destination": "https://moyosore-job-applier.fly.dev/api/:path*"
     }
   ],
   "buildCommand": "npm run build",
