@@ -1,0 +1,33 @@
+# Job Description
+**Title:** Software Engineer - Frontend Developer Productivity
+**Company:** Palantir
+**Location:** New York, NY
+**URL:** https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540
+
+---
+
+Core Responsibilities 
+<li>Design tools and infrastructure that make it easy for developers to build performant applications.</li>
+<li>Identify the most pressing issues affecting our frontend developers and advocate for potential solutions.</li>
+<li>Extend our Gradle-based build tooling to decrease build times even as the size of our monorepo increases.</li>
+<li>Provide support for other developers by answering questions on Slack, documenting common dev workflows and issues, or giving internal tech talks.</li>
+ Technologies We Use 
+<li>A variety of programming languages, including TypeScript, SCSS, and Java.</li>
+<li>Open-source libraries and frameworks like React and GraphQL.</li>
+<li>Industry-standard build tooling, including Gradle, Webpack, CircleCI, and GitHub.</li>
+ What We Value 
+<li>Passion for helping other developers build better applications.</li>
+<li>Empathy for the impact your changes will have on the workflows and productivity of developers and end users.</li>
+<li>Demonstrated ability to design solutions that balance complexity and ongoing maintenance cost against value to the developer and end user.</li>
+<li>Eagerness to delve into the source code of open-source libraries (such Webpack or Chromium) to truly understand how they work or to debug an issue.</li>
+<li>Staying up-to-date with recent industry practices and advancements in open-source technology.</li>
+<li>In-depth knowledge of web technologies and/or build systems is preferred, but not required.</li>
+ What We Require 
+<li>2+ years of software engineering experience.</li>
+<li>Strong coding skills, with demonstrated proficiency in JavaScript/TypeScript, Java, C++, Python, or another similar programming language.</li>
+<li>Great problem solving skills with the ability to navigate complex systems.</li>
+<li>Familiarity with data structures, distributed systems, and other technical tools.</li>
+<li>Strong written and verbal communication skills.</li>
+ <div><strong style="font-size: 18px;">Salary</strong></div>
+<div>&nbsp;</div>
+<div>The estimated salary range for this position is estimated to be $135,000 - $200,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.</div><div><br></div><div>Our benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.</div><div><br></div><div><b><span style="font-size: 18px">Benefits</span></b></div><div><br></div><div>• &nbsp;Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance</div><div>• &nbsp;Employees are automatically covered by Palantir’s basic life, AD&amp;D and disability insurance</div><div>• &nbsp;Commuter benefits</div><div>• &nbsp;Relocation assistance</div><div>• &nbsp;Take what you need paid time off, not accrual based</div><div>• &nbsp;2 weeks paid time off built into the end of each year (subject to team and business needs)</div><div>• &nbsp;10 paid holidays throughout the calendar year</div><div>• &nbsp;Supportive leave of absence program including time off for military service and medical events</div><div>• &nbsp;Paid leave for new parents and subsidized back-up care for all parents</div><div>• &nbsp;Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation</div><div>• &nbsp;Stipend to help with expenses that come with a new child</div><div>• &nbsp;Employees can enroll in Palantir’s 401k plan</div><div><br></div><div><b><span style="font-size: 18px">Life at Palantir</span></b></div><div><br></div><div>We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at <a href="https://www.palantir.com/careers/life-at-palantir/">Life at Palantir</a> and note that our offerings may vary by region.</div><div><br></div><div>In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.</div><div><br></div><div>If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process<i>, </i>please <a href="mailto:accommodations@palantir.com">reach out</a> and let us know how we can help.</div><div><br></div><div>If you would like to understand more about how your personal data will be processed by Palantir, please see our <a href="https://www.palantir.com/privacy-and-security/candidate-privacy-notice/">Privacy Policy</a>.</div>

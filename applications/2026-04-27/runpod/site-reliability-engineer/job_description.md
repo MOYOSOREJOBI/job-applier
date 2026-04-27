@@ -1,0 +1,93 @@
+# Job Description
+**Title:** Site Reliability Engineer
+**Company:** RunPod
+**Location:** Remote, USA
+**URL:** https://job-boards.greenhouse.io/runpod/jobs/4108951008
+
+---
+
+&lt;p&gt;Runpod is the foundational platform for developers to build and run custom AI systems that scale. With over 500,000 developers worldwide and an annual recurring revenue run rate exceeding $120M, Runpod operates at the intersection of developer velocity and production-scale AI. Founded in 2022, we’ve grown rapidly by building infrastructure purpose-built for modern AI workloads. Our platform enables teams to move from experimentation to deployment with flexibility across cloud, on-prem, and hybrid environments. As a remote-first, globally distributed company, we are building the infrastructure layer that powers the next generation of AI systems.&lt;/p&gt;
+&lt;p&gt;The Reliability team owns the availability, performance, and operational excellence of Runpod’s global platform. While infrastructure teams build the systems, the Reliability team ensures those systems remain resilient, observable, and scalable under real-world production conditions.&lt;/p&gt;
+&lt;p&gt;This team is responsible for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining and enforcing reliability standards across engineering&lt;/li&gt;
+&lt;li&gt;Designing incident response processes and improving recovery times&lt;/li&gt;
+&lt;li&gt;Building observability systems and reliability tooling&lt;/li&gt;
+&lt;li&gt;Driving SLO adoption and production readiness reviews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reducing operational toil through automation&lt;/p&gt;
+&lt;p&gt;The Reliability team works cross-functionally with Infrastructure, Product Engineering, and Support to ensure our systems remain stable and performant as we scale rapidly. We value proactive problem solving, automation-first thinking, and strong ownership of production systems.&lt;/p&gt;
+&lt;p&gt;As a Site Reliability Engineer on the Reliability team, you will focus on ensuring the stability and resilience of Runpod’s distributed platform. You will partner with engineering teams to improve system design, strengthen observability, and prevent incidents before they happen.&lt;/p&gt;
+&lt;p&gt;This role blends software engineering with production operations. You’ll work on reliability frameworks, SLO design, automation, and production hardening, reducing errors and improving performance across different services and infrastructure.&lt;/p&gt;
+&lt;p&gt;This is a high-impact role central to maintaining trust with developers running critical AI workloads on Runpod.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Increase platform uptime and reduce incident frequency and duration&lt;/li&gt;
+&lt;li&gt;Establish and operationalize SLIs/SLOs across services&lt;/li&gt;
+&lt;li&gt;Improve MTTR through better tooling, automation, and runbooks&lt;/li&gt;
+&lt;li&gt;Strengthen production readiness standards&lt;/li&gt;
+&lt;li&gt;Drive long-term systemic reliability improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will influence how reliability is defined and measured across Runpod and help build the operational backbone of the company.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Reliability Engineering&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Define and implement SLIs/SLOs for critical services&lt;/li&gt;
+&lt;li&gt;Lead incident response and coordinate cross-team mitigation efforts&lt;/li&gt;
+&lt;li&gt;Conduct blameless postmortems and ensure corrective actions are completed&lt;/li&gt;
+&lt;li&gt;Perform production readiness reviews for new services and features&lt;/li&gt;
+&lt;li&gt;Identify systemic risks and drive preventative improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Observability &amp;amp; Monitoring&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and improve monitoring, alerting, and dashboards (Prometheus, Grafana, etc.)&lt;/li&gt;
+&lt;li&gt;Improve signal-to-noise ratio in alerts and reduce alert fatigue&lt;/li&gt;
+&lt;li&gt;Build internal tooling for reliability tracking and reporting&lt;/li&gt;
+&lt;li&gt;Improve visibility into GPU performance and distributed systems health&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Automation &amp;amp; Toil Reduction&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Automate recurring operational workflows&lt;/li&gt;
+&lt;li&gt;Build tools and scripts (Python, Go, Bash) to eliminate manual processes&lt;/li&gt;
+&lt;li&gt;Improve deployment safety through automation and guardrails&lt;/li&gt;
+&lt;li&gt;Strengthen CI/CD reliability and release processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Cross-Functional Reliability Advocacy&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Partner with engineering teams to improve system resilience&lt;/li&gt;
+&lt;li&gt;Provide guidance on fault tolerance, scalability, and failure handling&lt;/li&gt;
+&lt;li&gt;Contribute to architectural discussions with a reliability-first mindset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience in SRE, Reliability Engineering, or Production Engineering&lt;/li&gt;
+&lt;li&gt;Strong Linux systems and Networking expertise&lt;/li&gt;
+&lt;li&gt;Experience managing containerized production systems&lt;/li&gt;
+&lt;li&gt;Strong understanding of distributed systems and failure modes&lt;/li&gt;
+&lt;li&gt;Experience defining and managing SLIs/SLOs&lt;/li&gt;
+&lt;li&gt;Proven incident response and postmortem leadership experience&lt;/li&gt;
+&lt;li&gt;Strong scripting or programming skills&lt;/li&gt;
+&lt;li&gt;Experience with monitoring and alerting systems&lt;/li&gt;
+&lt;li&gt;Excellent written communication skills&lt;/li&gt;
+&lt;li&gt;Successful completion of a background check&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with GPU infrastructure or AI/ML platforms&lt;/li&gt;
+&lt;li&gt;Experience improving reliability in high-growth or large scale environments&lt;/li&gt;
+&lt;li&gt;Familiarity with GPU observability tooling&lt;/li&gt;
+&lt;li&gt;Experience with Infrastructure as Code&lt;/li&gt;
+&lt;li&gt;Experience working in startup environments&lt;/li&gt;
+&lt;li&gt;Experience building internal reliability platforms or frameworks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Receive:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The competitive base pay for this position ranges from $150,000- $200,000 usd. This salary range may be inclusive of several career levels at Runpod and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location&lt;/li&gt;
+&lt;li&gt;Meaningful equity in a fast-growing company- everyone on the team receives stock options — your impact drives our growth, and you share in the upside.&lt;/li&gt;
+&lt;li&gt;Generous medical, dental &amp;amp; vision plans&lt;/li&gt;
+&lt;li&gt;Flexible PTO- take the time you need to recharge&lt;/li&gt;
+&lt;li&gt;Most roles are remote work first with an inclusive, collaborative teams utilizing slack as the main form of internal communication&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Join a passionate team on the cutting edge of AI infrastructure — where culture, learning, and ownership are at the heart of how we scale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;RunPod is committed to maintaining a workplace free from discrimination and upholding the principles of equality and respect for all individuals. We believe that diversity in all its forms enhances our team. As an equal opportunity employer, RunPod is committed to creating an inclusive workforce at every level. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, protected veteran status, disability status, or any other characteristic protected by law.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;

@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "owner": "Moyosore Ogunjobi",
+    "purpose": "Canonical audit-friendly catalog for projects, coursework, and resume source material.",
+    "updated_on": "2026-04-21"
+  },
+  "resume_assets": {
+    "preferred_resume_pdf": "resume-materials/current/Resume.pdf",
+    "workspace_audit_log": "logs/maintenance/workspace_cleanup_2026-04-21.md",
+    "readable_resume_source": "resume-materials/current/source/master_resume.md",
+    "projects_and_coursework_audit": "resume-materials/current/source/projects_and_coursework_audit.md"
+  },
+  "education": {
+    "coursework": {
+      "all": [
+        "Data Structures and Algorithms",
+        "Software Architecture",
+        "Principles of Software Design",
+        "Software Testing",
+        "Machine Learning Systems",
+        "Applied Deep Learning",
+        "Practices in Data Management",
+        "Probability Statistics and ML",
+        "Computer Organization",
+        "Industry Practice and Communication",
+        "Full Stack Web Development"
+      ],
+      "core": [
+        "Data Structures and Algorithms",
+        "Software Architecture",
+        "Machine Learning Systems",
+        "Practices in Data Management"
+      ],
+      "backend": [
+        "Data Structures and Algorithms",
+        "Software Architecture",
+        "Principles of Software Design",
+        "Software Testing"
+      ],
+      "ml_data": [
+        "Machine Learning Systems",
+        "Applied Deep Learning",
+        "Probability Statistics and ML",
+        "Practices in Data Management"
+      ],
+      "systems": [
+        "Software Architecture",
+        "Computer Organization",
+        "Software Testing",
+        "Industry Practice and Communication"
+      ]
+    }
+  },
+  "projects_catalog": [
+    {
+      "name": "Job Applier v2",
+      "focus": "automation, backend, operations",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "React",
+        "SQLite",
+        "Playwright"
+      ],
+      "highlights": [
+        "Built a supervised local job application assistant with discovery, scoring, artifact generation, and apply support.",
+        "Organized profile facts, coursework, and project history into audit-friendly source-of-truth files.",
+        "Preserved proof logging through structured application folders and log exports."
+      ]
+    },
+    {
+      "name": "Distributed Microservices Payment Gateway",
+      "focus": "backend, devops, fintech",
+      "stack": [
+        "Java",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "PostgreSQL",
+        "Redis",
+        "AWS",
+        "GitHub Actions"
+      ],
+      "highlights": [
+        "Designed containerized services for auth, transactions, and notifications.",
+        "Implemented retries, circuit breakers, and idempotency controls for reliability.",
+        "Provisioned infrastructure with Terraform and automated CI/CD pipelines.",
+        "Added metrics, logging, and alerting for production-style observability."
+      ]
+    },
+    {
+      "name": "Real Time Telemetry System",
+      "focus": "systems, data, real-time",
+      "stack": [
+        "Python",
+        "WebSockets",
+        "PostgreSQL",
+        "Grafana",
+        "Prometheus"
+      ],
+      "highlights": [
+        "Streamed 50+ sensor signals per second into real-time dashboards.",
+        "Surfaced anomalies within two seconds through alerting logic.",
+        "Supported Solar Racing competition performance with fast feedback loops."
+      ]
+    },
+    {
+      "name": "ML Powered Data Analytics Platform",
+      "focus": "ml, backend, analytics",
+      "stack": [
+        "Python",
+        "React",
+        "PyTorch",
+        "PostgreSQL",
+        "Docker",
+        "FastAPI"
+      ],
+      "highlights": [
+        "Built training, evaluation, and serving workflows end to end.",
+        "Reduced inference latency through batching and connection optimization.",
+        "Validated the service under concurrent load with containerized deployment."
+      ]
+    },
+    {
+      "name": "Financial Analytics Dashboard",
+      "focus": "data, analytics, product",
+      "stack": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "PostgreSQL",
+        "React",
+        "FastAPI"
+      ],
+      "highlights": [
+        "Built ingest, cleaning, and visualization workflows for multi-source data.",
+        "Created dashboards for trends, anomalies, and decision support.",
+        "Automated weekly reporting to reduce repetitive manual work."
+      ]
+    },
+    {
+      "name": "d3gns / DeG£N$",
+      "focus": "automation, trading, full-stack",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Docker",
+        "FastAPI",
+        "React",
+        "WebSockets"
+      ],
+      "highlights": [
+        "Built a multi-bot trading, risk, and automation platform.",
+        "Combined backend services, live updates, and operational tooling."
+      ]
+    },
+    {
+      "name": "L-ESSAYAGE",
+      "focus": "ml, ai, systems",
+      "stack": [
+        "Python",
+        "C++",
+        "CUDA",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "highlights": [
+        "Large ML/AI project spanning model and application work.",
+        "Mixed systems programming with modern app-layer tooling."
+      ]
+    },
+    {
+      "name": "Sentinel",
+      "focus": "monitoring, backend, reliability",
+      "stack": [
+        "Go",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "Shell"
+      ],
+      "highlights": [
+        "Built monitoring, alerting, and backend workflows.",
+        "Focused on operational visibility and reliability."
+      ]
+    },
+    {
+      "name": "CORTEX",
+      "focus": "mobile, web, product",
+      "stack": [
+        "Swift",
+        "TypeScript",
+        "CSS"
+      ],
+      "highlights": [
+        "Developed an iOS and web application experience.",
+        "Worked across product-facing application layers."
+      ]
+    },
+    {
+      "name": "BALDONTLIE / Sports Analytics Stack",
+      "focus": "analytics, data, full-stack",
+      "stack": [
+        "TypeScript",
+        "Python",
+        "Docker",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "highlights": [
+        "Built analytics tooling and dashboards around sports data.",
+        "Combined data workflows with interactive presentation layers."
+      ]
+    }
+  ],
+  "leadership_catalog": [
+    {
+      "title": "Software VP",
+      "organization": "Solar Racing Team, University of Calgary",
+      "focus": [
+        "team leadership",
+        "architecture",
+        "code reviews",
+        "agile execution"
+      ]
+    },
+    {
+      "title": "Junior President",
+      "organization": "African Caribbean Students Association",
+      "focus": [
+        "operations",
+        "budget ownership",
+        "events",
+        "payments modernization"
+      ]
+    }
+  ]
+}

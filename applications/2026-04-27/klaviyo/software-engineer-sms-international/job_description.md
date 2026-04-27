@@ -1,0 +1,41 @@
+# Job Description
+**Title:** Software Engineer - SMS International
+**Company:** Klaviyo
+**Location:** London, UK
+**URL:** https://www.klaviyo.com/careers/jobs?gh_jid=7566581003
+
+---
+
+&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;em&gt;At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If you’re a close but not exact match with the description, we hope you’ll still consider applying. Want to learn more about life at Klaviyo? Visit &lt;a class=&quot;_ymio1r31 _ypr0glyw _zcxs1o36 _mizu194a _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu18uv _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b18uv _4fpr8stv _5goinqa1 _f8pj13af _9oik18uv _1bnxglyw _jf4cnqa1 _30l313af _1nrm18uv _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1&quot; href=&quot;http://klaviyo.com/careers&quot; data-renderer-mark=&quot;true&quot;&gt;klaviyo.com/careers&lt;/a&gt;&amp;nbsp;to see how we empower creators to own their own destiny.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Why you should join the SMS International team that is part of Mobile Platforms&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Mobile Platforms team at Klaviyo is responsible for empowering the over 150,000 Ecommerce clients we work with on a global scale to deliver effective experiences on mobile devices. This team focuses on performance optimization and continuous development of our Mobile Marketing Channels (SMS, Push Notifications, In App Messages, WhatsApp and RCS), Mobile SDKs (iOS, Android and React Native). While Email was how Klaviyo began, Mobile messaging is truly the way of the future.&lt;/p&gt;
+&lt;p&gt;The SMS International team within Mobile Platforms is responsible for the expansion of SMS capabilities into new countries and regions and is also spearheading the development of RCS as a new capability to be offered to customers alongside existing channels. We have an ambitious roadmap for 2026 that puts the team at the heart of the company’s objectives and it is an exciting time to join the team!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a Fullstack Software Engineer II joining the SMS International team you will be working with a team of 5 other colleagues to deliver RCS and SMS International expansion to meet the company’s objectives. You will get the chance to build brand new services, understand how they fit into the bigger picture and plan how to architect and scale them successfully to serve our customers.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies we use (not exhaustive):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python, Django, Go, React, SQS, Celery, MySQL, DynamoDB, Elasticache, Redis&lt;/li&gt;
+&lt;li&gt;Amazon Web Services (EC2, RDS, Aurora, etc.), Terraform, Kubernetes, Splunk, Buildkite, Grafana, Chronosphere and other modern DevOps tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we are looking for&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3-5 years of experience in a software engineering discipline&lt;/li&gt;
+&lt;li&gt;Experience with full stack application development&lt;/li&gt;
+&lt;li&gt;Experience working with both monolithic and microservices architectures&lt;/li&gt;
+&lt;li&gt;Experience with database design that can withstand high query volumes&lt;/li&gt;
+&lt;li&gt;Experience with CI/CD pipelines&lt;/li&gt;
+&lt;li&gt;Experience debugging performance issues and improving application performance&lt;/li&gt;
+&lt;li&gt;An interest and aptitude for collaboration across teams and disciplines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience creating new services with scalability in mind. Exposure to large-scale system design&lt;/li&gt;
+&lt;li&gt;Experience with AWS or any similar cloud provider&lt;/li&gt;
+&lt;li&gt;Communication domain experience&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;&lt;p&gt;We use Covey as part of our hiring and / or promotional process. For jobs or candidates in NYC, certain features may qualify it as an AEDT. As part of the evaluation process we provide Covey with job requirements and candidate submitted applications. We began using &lt;a href=&quot;https://getcovey.com/product/covey-scout-inbound&quot;&gt;Covey Scout for Inbound&lt;/a&gt; on April 3, 2025.&lt;/p&gt;&lt;p&gt;Please see the independent bias audit report covering our use of Covey &lt;a href=&quot;https://getcovey.com/nyc-local-law-144&quot; style=&quot;text-decoration:underline&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Our salary range reflects the cost of labour in the country where the job post is advertised. The base salary offered for this position is determined by several factors, including the applicant’s job-related skills, relevant experience, education or training, and work location.&lt;/p&gt;
+&lt;p&gt;In addition to base salary, our total compensation package may include participation in the company’s annual cash bonus plan, variable compensation (OTE) for sales and customer success roles, equity, sign-on payments, and a comprehensive range of health, welfare, and wellbeing benefits based on eligibility.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Your recruiter can provide more details about the specific salary/OTE&amp;nbsp; range for your preferred location during the hiring process.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range in Local Currency:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;£68,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;£102,000 GBP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;This role may require up to 10% travel for purposes such as new hire onboarding, client or partner work if applicable, team meetings, and industry events. Travel is coordinated in advance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get to Know Klaviyo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re Klaviyo (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party data accessible and actionable like never before. We see limitless potential for the technology we’re developing to nurture personalized experiences in ecommerce and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious and collaborative teammates who stay focused on our north star: delighting our customers. If you’re ready to do the best work of your career, where you’ll be welcomed as your whole self from day one and supported with generous benefits, we hope you’ll join us.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AI fluency at Klaviyo includes responsible use of AI (including privacy, security, bias awareness, and human-in-the-loop). We provide accommodations as needed.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;By participating in Klaviyo’s interview process, you acknowledge that you have read, understood, and will adhere to our&amp;nbsp;&lt;a href=&quot;https://www.klaviyo.com/careers/ai-guidance&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.klaviyo.com/careers/ai-guidance&amp;amp;source=gmail&amp;amp;ust=1761072778777000&amp;amp;usg=AOvVaw0auUcRqeYRczM9UoXAKldj&quot;&gt;Guidelines for using AI in the Klaviyo interview Process&lt;/a&gt;. For more information about how we process your personal data, see our&amp;nbsp;&lt;a href=&quot;https://www.klaviyo.com/legal/job-applicant-privacy-notice&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.klaviyo.com/legal/job-applicant-privacy-notice&amp;amp;source=gmail&amp;amp;ust=1761072778777000&amp;amp;usg=AOvVaw1axMoReIM1qwTbmaPcLI_b&quot;&gt;Job Applicant Privacy Notice&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&

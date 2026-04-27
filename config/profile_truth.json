@@ -1,0 +1,248 @@
+{
+  "identity": {
+    "name": "Moyosore Ogunjobi",
+    "preferred_name": "Moyosore",
+    "pronunciation": "MOY-oh-sor-ay",
+    "first_name": "Moyosore",
+    "last_name": "Ogunjobi",
+    "location": "Calgary, AB, Canada",
+    "email": "moyosorejobi@gmail.com",
+    "phone": "825-736-5656",
+    "website": "moyosore.dev",
+    "github": "github.com/MOYOSOREJOBI",
+    "linkedin": "linkedin.com/in/moyosore-ogunjobi-b187b8205",
+    "postal_code": "T3A 2Z7"
+  },
+  "education": {
+    "school": "University of Calgary",
+    "degree": "BSc Software Engineering",
+    "graduation": "Expected May 2027",
+    "gpa": "3.45",
+    "year_of_study": "3rd Year",
+    "enrollment_status": "Full-time",
+    "coursework": [
+      "Machine Learning Systems",
+      "Applied Deep Learning",
+      "Software Architecture",
+      "Software Design Patterns",
+      "Operating Systems",
+      "Data Structures and Algorithms",
+      "Probability and Statistics",
+      "Special Topics in Software Engineering",
+      "Practices in Data Management",
+      "Industry Practice and Communication",
+      "Full Stack Web Development"
+    ]
+  },
+  "availability": {
+    "target_start": "May 2026 or June 2026",
+    "internship_availability": "Available May 2026 or June 2026 for a Summer 2026 internship/co-op or entry-level role, depending on the employer's start date.",
+    "fall_availability": "Available September 2026 to December 2026 for a Fall 2026 co-op term.",
+    "hours_per_week": 40
+  },
+  "compensation": {
+    "target_hourly_minimum": 25,
+    "target_hourly_preferred": "30-35+",
+    "salary_expectation": "My target range is $25-35+ per hour depending on role scope, location, and total compensation. I am flexible for the right internship or entry-level opportunity."
+  },
+  "work_authorization": {
+    "canada_authorized": true,
+    "canada_sponsorship_required": false,
+    "us_authorized": false,
+    "us_sponsorship_required": true,
+    "open_to_relocation": true
+  },
+  "target_roles": [
+    "Software Engineering Intern",
+    "Backend Engineer Intern",
+    "Frontend Engineer Intern",
+    "Full Stack Intern",
+    "DevOps Intern",
+    "Cloud Intern",
+    "Data Engineer Intern",
+    "AI / ML Intern",
+    "Data Science Intern",
+    "Data Analyst Intern",
+    "Quant / Trading Systems Intern",
+    "Junior Software Engineer",
+    "Entry-Level Software Engineer",
+    "New Grad Software Engineer"
+  ],
+  "target_locations": ["Calgary", "Vancouver", "Toronto", "Remote Canada"],
+  "location_mapping": {
+    "vancouver": "Vancouver, BC",
+    "toronto": "Toronto, ON",
+    "montreal": "Montreal, QC",
+    "ottawa": "Ottawa, ON",
+    "default": "Calgary, AB"
+  },
+  "skills": {
+    "languages": ["Python", "Java", "C/C++", "Swift", "TypeScript", "JavaScript", "SQL", "Bash"],
+    "software_engineering": ["REST APIs", "WebSockets", "Microservices", "Authentication", "Testing", "System Design", "Data Structures", "Algorithms"],
+    "backend_data": ["FastAPI", "PostgreSQL", "Redis", "Batch Processing", "Data Pipelines", "Structured Logging", "MongoDB"],
+    "cloud_devops": ["AWS", "Docker", "Kubernetes", "Terraform", "GitHub Actions", "CI/CD", "Linux", "Git"],
+    "machine_learning": ["PyTorch", "TensorFlow", "Core ML", "LLM Evaluation", "Red-Teaming", "Model Benchmarking", "Prompt Evaluation"],
+    "analytics_tools": ["Grafana", "Prometheus", "Excel", "Power BI", "PowerPoint", "Technical Documentation"]
+  },
+  "experience": [
+    {
+      "title": "AI Training Engineer",
+      "company": "Alignerr (via Labelbox)",
+      "start": "Aug 2024",
+      "end": "Present",
+      "location": "Remote, Canada",
+      "bullets": [
+        "Evaluate 200+ AI model responses per week across Python, C++, math reasoning, debugging, and live coding tasks",
+        "Review model outputs for logic errors, hallucinated APIs, unsafe assumptions, weak explanations, and poor code quality",
+        "Built Python scripts to standardize feedback formatting, clean repetitive review steps, and reduce manual annotation time by 40%",
+        "Maintain 95%+ quality scores while meeting weekly review targets across technical and reasoning-based projects"
+      ]
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "Oando PLC",
+      "start": "May 2023",
+      "end": "Sep 2023",
+      "location": "Lagos, Nigeria",
+      "bullets": [
+        "Analyzed 90 days of maintenance and operations data using Python and Excel to identify recurring equipment patterns",
+        "Flagged 20+ equipment anomalies through trend analysis, KPI tracking, and weekly engineering review reports",
+        "Built reporting templates for 4 departments, turning field data into clearer maintenance and operations updates",
+        "Supported planning work tied to a 15% reduction in unplanned maintenance events during the review period"
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Software Vice President",
+      "org": "Solar Racing Team, University of Calgary",
+      "start": "2023",
+      "end": "Present",
+      "bullets": [
+        "Lead a 10-person software team across telemetry, data logging, driver-interface systems, sprint planning, code reviews, and release checks"
+      ]
+    },
+    {
+      "title": "Senator",
+      "org": "African Caribbean Students Association, University of Calgary",
+      "start": "2023",
+      "end": "2025",
+      "bullets": [
+        "Supported operations for 200+ members, helped manage a $35,000 annual budget, and improved dues/event payment tracking by 25%"
+      ]
+    },
+    {
+      "title": "Special Duties Prefect",
+      "org": "Rainbow College",
+      "location": "Lagos, Nigeria",
+      "start": "2019",
+      "end": "2020",
+      "bullets": [
+        "Coordinated student discipline, assemblies, event logistics, and communication between students, teachers, and school leadership"
+      ]
+    },
+    {
+      "title": "ICT, Math, Physics, and Coding Tutor",
+      "org": "Rainbow College",
+      "location": "Lagos, Nigeria",
+      "start": "2018",
+      "end": "2020",
+      "bullets": [
+        "Tutored students in programming, math, physics, and computer literacy through practice questions, code walkthroughs, and exam preparation"
+      ]
+    }
+  ],
+  "certifications": [
+    "AWS Certified Machine Learning Engineer Associate",
+    "AWS Certified Data Engineer Associate",
+    "HashiCorp Certified Terraform Associate",
+    "Certified Kubernetes Application Developer (CKAD)",
+    "AWS Certified Developer Associate",
+    "AWS Certified Solutions Architect Associate",
+    "HackerRank Software Engineer"
+  ],
+  "summary": "Software Engineering student with almost a decade of coding experience across full-stack development, ML evaluation, and cloud tools. Practical builder with strong debugging, automation, and communication skills, focused on turning ambiguous technical problems into reliable software.",
+  "projects": [
+    {
+      "name": "Distributed Microservices Payment Gateway",
+      "stack": ["Java", "Docker", "Kubernetes", "Terraform", "PostgreSQL", "Redis", "AWS"],
+      "year": "2025",
+      "bullets": [
+        "Built a Java microservices payment backend with authentication, payment simulation, retries, circuit breakers, PostgreSQL storage, and Redis caching",
+        "Containerized and deployed services using Docker, Kubernetes, Terraform, GitHub Actions, and AWS",
+        "Added logs, metrics, and alerts to trace failed requests, retry loops, and service issues during load testing"
+      ]
+    },
+    {
+      "name": "On-Device Multimodal Inference Engine",
+      "stack": ["Swift", "Core ML", "PyTorch", "Python"],
+      "year": "2025",
+      "bullets": [
+        "Built an iOS prototype for local image captioning and visual question answering using Swift, Core ML, PyTorch export, and quantized models",
+        "Tested model size, latency, and memory usage to improve on-device inference performance",
+        "Documented export, quantization, and device-testing steps for reproducible future model updates"
+      ]
+    },
+    {
+      "name": "Solar Racing Telemetry Platform",
+      "stack": ["Python", "WebSockets", "PostgreSQL", "Grafana", "Embedded Systems"],
+      "year": "2024",
+      "bullets": [
+        "Built live telemetry dashboards for battery, speed, sensor health, and vehicle status using Python, WebSockets, PostgreSQL, and Grafana",
+        "Streamed 50+ vehicle signals per second into dashboards used for vehicle testing and race-day debugging",
+        "Improved issue visibility by organizing real-time signals into clear operational views for engineers and drivers"
+      ]
+    },
+    {
+      "name": "Adversarial Robustness and Edge Multimodal AI Research",
+      "stack": ["Python", "PyTorch", "Core ML", "Multimodal LLMs"],
+      "year": "2026",
+      "start": "Jan 2026",
+      "end": "Present",
+      "bullets": [
+        "Building a Python pipeline to test multimodal LLMs against jailbreaks, prompt injection, image-text mismatch, and unsafe visual reasoning prompts",
+        "Benchmarking 4-bit vision-language models with PyTorch and Core ML export across latency, memory use, and answer quality on edge devices",
+        "Preparing a reproducible test suite with prompts, failure labels, model outputs, and evaluation scripts for future lab and portfolio work"
+      ]
+    },
+    {
+      "name": "Job Applier v2",
+      "stack": ["Python", "FastAPI", "React", "SQLite", "Playwright"],
+      "year": "2025",
+      "bullets": [
+        "Built a supervised local application assistant that discovers jobs, scores fit, generates tailored artifacts, and preserves proof logs"
+      ]
+    },
+    {
+      "name": "d3gns / DeG£N$",
+      "stack": ["Python", "JavaScript", "Docker", "FastAPI", "React", "WebSockets"],
+      "year": "2024",
+      "bullets": [
+        "Multi-bot trading, risk, and automation platform"
+      ]
+    },
+    {
+      "name": "Sentinel",
+      "stack": ["Go", "TypeScript", "Python", "PostgreSQL", "Shell"],
+      "year": "2024",
+      "bullets": [
+        "Monitoring, alerting, and backend system"
+      ]
+    }
+  ],
+  "screening_questions": {
+    "tell_me_about_yourself": "I am a third-year Software Engineering student at the University of Calgary, graduating May 2027. I have almost a decade of coding experience across full-stack development, ML evaluation, and cloud tools. I currently evaluate 200+ AI model outputs weekly at Alignerr and lead a 10-person software team at the University of Calgary Solar Racing team. I am looking for a Summer 2026 internship where I can work on hard engineering problems and ship real software.",
+    "strengths": "My strongest technical skill is building reliable backend systems. I design for failure from the start, write tests before considering a feature done, and make the system observable so problems are diagnosable. I also communicate well between technical and non-technical stakeholders. And I am fast: I pick up new tools and frameworks quickly and I do not stay stuck.",
+    "weakness": "I used to spend too long polishing details before sharing early work. I have learned to show progress sooner, collect feedback earlier, and iterate in tighter loops.",
+    "challenge": "During the Solar Racing team's first competition with the telemetry system I built, the alerting system was firing false positives. During a race, that is dangerous. I had built structured logging into the ingestion pipeline, so I traced the bad alerts back to a sensor calibration issue rather than a software bug. I wrote a filtering layer that normalized the outlier readings and the false positives stopped. The team finished top 10 at FSGP 2024.",
+    "career_goals": "Long term, I want to grow into an engineer who can own important systems end-to-end and make strong technical decisions in high-trust environments. In the near term, I want to sharpen the exact skills this role demands most and learn from engineers who already operate at a high level.",
+    "favourite_project": "My favourite project is the Real-Time Telemetry System I built for the University of Calgary Solar Racing team. It streams 50+ live sensor signals per second with sub-100ms latency and includes anomaly detection that surfaces critical issues within 2 seconds. I built it in Python with WebSockets and PostgreSQL, with Grafana dashboards the team used in real competition conditions. The system contributed to a top-10 finish at Formula Sun Grand Prix 2024."
+  },
+  "unknown_or_manual": {
+    "transcript_file": "config/transcript_jan2026.pdf",
+    "references": "available on request",
+    "driver_license": "Yes",
+    "background_check_consent": "Yes",
+    "demographic_voluntary_fields": "answered_where_comfortable"
+  }
+}

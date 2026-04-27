@@ -1,0 +1,45 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Database (local)
+storage/jobs.db
+storage/*.db
+*.db
+*.sqlite
+
+# Artifacts / PDFs
+artifacts/
+pdfs/
+*.pdf
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Browser automation
+storage/browser_profiles/
+storage/chrome_fill_only_profile/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+config/gmail_credentials.json
+config/gmail_token.json

@@ -1,0 +1,357 @@
+{
+  "updated_at": "2026-04-20T23:56:11.213660+00:00",
+  "blocking_questions": [
+    {
+      "job_id": "6ed73ae9-c6ef-446c-b6ff-314edc0a5124",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - France",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:30:50.002538+00:00"
+    },
+    {
+      "job_id": "6ed73ae9-c6ef-446c-b6ff-314edc0a5124",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - France",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:30:50.002558+00:00"
+    },
+    {
+      "job_id": "5bfe6f69-cc45-40ba-b7fe-17efdab77b73",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+      "question": "cards[5aa870f8-64c0-454d-8447-cc5c27cc0c84][field0]",
+      "reason": "Unknown required fields remain: cards[5aa870f8-64c0-454d-8447-cc5c27cc0c84][field0], cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:32:46.987203+00:00"
+    },
+    {
+      "job_id": "5bfe6f69-cc45-40ba-b7fe-17efdab77b73",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[5aa870f8-64c0-454d-8447-cc5c27cc0c84][field0], cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:32:46.987219+00:00"
+    },
+    {
+      "job_id": "5bfe6f69-cc45-40ba-b7fe-17efdab77b73",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[5aa870f8-64c0-454d-8447-cc5c27cc0c84][field0], cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:32:46.987225+00:00"
+    },
+    {
+      "job_id": "730ae678-4bb1-4e21-919c-d2cb81ecb49d",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:35:12.873644+00:00"
+    },
+    {
+      "job_id": "730ae678-4bb1-4e21-919c-d2cb81ecb49d",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:35:12.873660+00:00"
+    },
+    {
+      "job_id": "ba169545-3ca7-4c09-a4a1-1255538a14f6",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:36:38.557991+00:00"
+    },
+    {
+      "job_id": "ba169545-3ca7-4c09-a4a1-1255538a14f6",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:36:38.558006+00:00"
+    },
+    {
+      "job_id": "9125095b-9f3f-4541-a358-9bb2026b47b2",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:38:04.341354+00:00"
+    },
+    {
+      "job_id": "9125095b-9f3f-4541-a358-9bb2026b47b2",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:38:04.341374+00:00"
+    },
+    {
+      "job_id": "e849c0f8-1760-4b3d-ba5e-e615e4d8354d",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:39:52.254538+00:00"
+    },
+    {
+      "job_id": "e849c0f8-1760-4b3d-ba5e-e615e4d8354d",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:39:52.254555+00:00"
+    },
+    {
+      "job_id": "33717d74-ba09-4134-b1cb-9c6724057554",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:41:23.842998+00:00"
+    },
+    {
+      "job_id": "33717d74-ba09-4134-b1cb-9c6724057554",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:41:23.843014+00:00"
+    },
+    {
+      "job_id": "31fdf08a-a5da-4110-a8eb-45aea5b72c8c",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:43:02.166216+00:00"
+    },
+    {
+      "job_id": "31fdf08a-a5da-4110-a8eb-45aea5b72c8c",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:43:02.166233+00:00"
+    },
+    {
+      "job_id": "de8726b9-4d41-4d61-ae8f-77ca5c3df7bc",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:44:32.522705+00:00"
+    },
+    {
+      "job_id": "de8726b9-4d41-4d61-ae8f-77ca5c3df7bc",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:44:32.522720+00:00"
+    },
+    {
+      "job_id": "fc347226-2ca3-41d6-bf79-b09b5283c99f",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:46:04.900025+00:00"
+    },
+    {
+      "job_id": "fc347226-2ca3-41d6-bf79-b09b5283c99f",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:46:04.900051+00:00"
+    },
+    {
+      "job_id": "a272a6d8-e895-4861-9d0b-c2ec53287c61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:47:34.622258+00:00"
+    },
+    {
+      "job_id": "a272a6d8-e895-4861-9d0b-c2ec53287c61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:47:34.622278+00:00"
+    },
+    {
+      "job_id": "a5109a54-e590-4b42-89f0-391db6af684b",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:49:23.559082+00:00"
+    },
+    {
+      "job_id": "a5109a54-e590-4b42-89f0-391db6af684b",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:49:23.559097+00:00"
+    },
+    {
+      "job_id": "96bebd6e-edbe-45d3-bcc8-88bf628fc8fa",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:50:54.506724+00:00"
+    },
+    {
+      "job_id": "96bebd6e-edbe-45d3-bcc8-88bf628fc8fa",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:50:54.506740+00:00"
+    },
+    {
+      "job_id": "9b5b4815-6cd5-4248-9e75-fdf56f17fd61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:52:20.349344+00:00"
+    },
+    {
+      "job_id": "9b5b4815-6cd5-4248-9e75-fdf56f17fd61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30",
+      "question": "cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[037683ac-0e2a-4adf-82d9-49bd682697cc][field0]",
+      "created_at": "2026-04-20T23:52:20.349360+00:00"
+    },
+    {
+      "job_id": "2e8de78a-0bbc-444a-a4c3-82739f22d261",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+      "question": "cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]",
+      "created_at": "2026-04-20T23:54:34.158698+00:00"
+    },
+    {
+      "job_id": "2e8de78a-0bbc-444a-a4c3-82739f22d261",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+      "question": "cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]",
+      "reason": "Unknown required fields remain: cards[026d7ce7-7ca4-44ed-9db6-1c7857707f0e][field0], cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]",
+      "created_at": "2026-04-20T23:54:34.158713+00:00"
+    },
+    {
+      "job_id": "e5309a1d-07b2-4cc4-a98c-9dff15fd087c",
+      "company": "Palantir",
+      "title": "Software Engineer - Frontend Developer Productivity",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540",
+      "question": "cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]",
+      "reason": "Unknown required fields remain: cards[a6197d84-549e-4a91-8bb0-6af972510013][field0], cards[3b373c5b-b2f7-4d2c-b330-c70733ef9f20][field0]",
+      "created_at": "2026-04-20T23:56:11.213639+00:00"
+    },
+    {
+      "job_id": "e5309a1d-07b2-4cc4-a98c-9dff15fd087c",
+      "company": "Palantir",
+      "title": "Software Engineer - Frontend Developer Productivity",
+      "portal": "lever",
+      "url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540",
+      "question": "cards[3b373c5b-b2f7-4d2c-b330-c70733ef9f20][field0]",
+      "reason": "Unknown required fields remain: cards[a6197d84-549e-4a91-8bb0-6af972510013][field0], cards[3b373c5b-b2f7-4d2c-b330-c70733ef9f20][field0]",
+      "created_at": "2026-04-20T23:56:11.213655+00:00"
+    }
+  ],
+  "known_manual_topics": [
+    {
+      "key": "transcript",
+      "reason": "No verified transcript file is configured. Required transcript upload should pause before submit."
+    },
+    {
+      "key": "references",
+      "reason": "References are not verified in profile_truth.json. Required references should pause before submit."
+    },
+    {
+      "key": "driver_license",
+      "reason": "Driver's license status is not verified. Required driver/license questions should pause before submit."
+    },
+    {
+      "key": "background_check_consent",
+      "reason": "Consent questions are user decisions. Required consent should pause before submit."
+    },
+    {
+      "key": "demographic_voluntary_fields",
+      "reason": "Sensitive demographic questions are not guessed. Optional fields should be skipped or declined where available."
+    }
+  ]
+}

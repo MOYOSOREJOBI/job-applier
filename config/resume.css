@@ -1,0 +1,194 @@
+/* RESUME.LOL CSS - Merged & Optimized for One Page */
+/* Primary: CSS 1 styling | Fixed: px units for one-page fit */
+
+@import url('https://www.resume.lol/fonts/cm/fonts.css');
+
+/* ===== Global font control (only affects the rules that were 14px) ===== */
+:root {
+    --fs-14: 15px; /* change this one value to update all former 14px sizes */
+}
+
+/* Base styling - compact but readable */
+body {
+    font-family: "Computer Modern Serif", serif;
+    font-size: var(--fs-14);
+    font-weight: 500;
+    line-height: 1.08;
+}
+
+.spacer {
+    margin: 0px auto;
+}
+
+.vertical-spacer {
+    height: 6px;
+}
+
+/* All text black */
+h1, h2, h3, h4, p, a, li {
+    color: black;
+}
+
+/* Name header - centered, bold */
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+/* Section headers - uppercase with line */
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: var(--fs-14);
+    font-weight: 700;
+    padding: 0;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+h2::first-letter {
+    font-size: var(--fs-14);
+}
+
+/* Job titles and project names */
+h3, h4 {
+    margin: 0;
+    margin-left: 2px;
+}
+
+h3 {
+    display: flex;
+    font-size: var(--fs-14);
+    padding: 0;
+    justify-content: space-between;
+}
+
+/* Indent for tech stacks */
+.indent {
+    margin-left: 2px;
+}
+
+.tech-stack {
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* Subtitles - location, degree */
+h4 {
+    display: flex;
+    font-size: var(--fs-14);
+    font-weight: normal;
+    font-style: italic;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: space-between;
+}
+
+/* Normal text styling */
+.normal {
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+li > p {
+    display: inline;
+}
+
+a {
+    color: black;
+    text-underline-offset: 3px;
+}
+
+strong, em, a {
+    padding-left: 1px;
+    padding-right: 2px;
+}
+
+/* Bullet lists - tight spacing */
+ul {
+    margin: 2px 0;
+    padding-left: 24px;
+    padding-right: 10px;
+    font-size: var(--fs-14);
+}
+
+ul > li {
+    margin-bottom: 1px;
+}
+
+ul > li:last-child {
+    margin-bottom: 2px;
+}
+
+/* Hide horizontal rules */
+hr {
+    display: none;
+}
+
+/* Contact info header */
+.headerInfo {
+    font-size: 10px;
+    line-height: 1.0;
+}
+
+.headerInfo > ul {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    justify-content: center;
+    margin: 4px auto 0px !important;
+    padding: 0;
+}
+
+.headerInfo > ul > li {
+    display: inline;
+    white-space: nowrap;
+    list-style-type: none;
+}
+
+.headerInfo > ul > li:not(:last-child) {
+    margin-right: 5px;
+}
+
+.headerInfo > ul > li:not(:last-child):after {
+    content: "|";
+    margin-left: 5px;
+}
+
+/* Hidden ATS keywords - white text, tiny font */
+.hidden {
+    color: #ffffff;
+    font-size: 2pt;
+    line-height: 1pt;
+    margin: 0;
+    padding: 0;
+}
+
+.hidden a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Print optimization */
+@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    .hidden {
+        color: #ffffff !important;
+        font-size: 2pt !important;
+        line-height: 1pt !important;
+    }
+}
