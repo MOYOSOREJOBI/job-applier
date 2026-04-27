@@ -177,17 +177,6 @@ CREATE TABLE IF NOT EXISTS domain_memory (
     updated_at               TEXT
 );
 
-CREATE TABLE IF NOT EXISTS email_events (
-    id           TEXT PRIMARY KEY,
-    subject      TEXT,
-    sender       TEXT,
-    status       TEXT NOT NULL,
-    received_at  TEXT NOT NULL,
-    body_snippet TEXT,
-    job_id       TEXT REFERENCES jobs(id),
-    seen         INTEGER DEFAULT 0
-);
-
 CREATE INDEX IF NOT EXISTS idx_jobs_status        ON jobs(status);
 CREATE INDEX IF NOT EXISTS idx_jobs_score         ON jobs(score DESC);
 CREATE INDEX IF NOT EXISTS idx_jobs_source        ON jobs(source);
@@ -199,7 +188,6 @@ CREATE INDEX IF NOT EXISTS idx_campaign_rows_run   ON campaign_rows(campaign_id,
 CREATE INDEX IF NOT EXISTS idx_campaign_rows_stage ON campaign_rows(stage, updated_at DESC);
 CREATE INDEX IF NOT EXISTS idx_app_memory_company ON application_memory(company, title);
 CREATE INDEX IF NOT EXISTS idx_domain_memory_portal ON domain_memory(portal, updated_at DESC);
-CREATE INDEX IF NOT EXISTS idx_email_events_status ON email_events(status, received_at DESC);
 """
 
 
@@ -239,6 +227,39 @@ def bootstrap():
     }.items():
         if column not in application_columns:
             conn.execute(f"ALTER TABLE applications ADD COLUMN {column} {definition}")
+    # ── email_events table (create or migrate) ───────────────────────────────
+    existing_tables = {row[0] for row in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")}
+    if "email_events" not in existing_tables:
+        conn.execute("""
+            CREATE TABLE IF NOT EXISTS email_events (
+                id           TEXT PRIMARY KEY,
+                subject      TEXT,
+                sender       TEXT,
+                status       TEXT NOT NULL DEFAULT 'confirmation',
+                received_at  TEXT NOT NULL,
+                body_snippet TEXT,
+                job_id       TEXT REFERENCES jobs(id),
+                seen         INTEGER DEFAULT 0,
+                msg_id       TEXT UNIQUE,
+                classification TEXT,
+                company      TEXT,
+                created_at   TEXT
+            )
+        """)
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_email_events_status ON email_events(status, received_at DESC)")
+    else:
+        email_cols = {row["name"] for row in conn.execute("PRAGMA table_info(email_events)").fetchall()}
+        for col, defn in {
+            "status": "TEXT NOT NULL DEFAULT 'confirmation'",
+            "body_snippet": "TEXT",
+            "job_id": "TEXT",
+            "seen": "INTEGER DEFAULT 0",
+        }.items():
+            if col not in email_cols:
+                conn.execute(f"ALTER TABLE email_events ADD COLUMN {col} {defn}")
+        # Add index if missing
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_email_events_status ON email_events(status, received_at DESC)")
+
     # Force-update mutable defaults so existing DBs pick up the new values
     conn.execute("INSERT OR REPLACE INTO settings (key,value) VALUES ('DAILY_CAP','120')")
     conn.execute("INSERT OR REPLACE INTO settings (key,value) VALUES ('DRY_RUN_DEFAULT','false')")

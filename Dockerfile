@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libglib2.0-0 \
     shared-mime-info \
     fonts-liberation \
-    ttf-mscorefonts-installer \
+    fonts-dejavu \
     wget \
     curl \
     gnupg \
